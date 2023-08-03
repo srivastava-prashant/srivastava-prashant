@@ -1,5 +1,7 @@
 <h1 align="center"> Hi there 👋, I am Prashant</h1>
 
+<img width="1834" alt="Make your README" src="https://github.com/srivastava-prashant/srivastava-prashant/assets/100225397/8efa5660-1294-4edb-a1f4-c07aa7d8b75b">
+
 
 <h3 align="center">Enthusiast, researcher and full stack web developer</h3>
 
